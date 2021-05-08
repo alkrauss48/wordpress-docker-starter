@@ -1,0 +1,7 @@
+volumes
+secrets.yaml
+
+# ignore log files and databases
+*.log
+*.sql
+*.sqlite
